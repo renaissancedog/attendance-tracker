@@ -16,6 +16,6 @@ To use:
 5. Enjoy all the time that you saved!
 
 Contributions are welcomed! 
-If you have an error or find a bug, file an issue report, contact me, or open a PR and fix it yourself.
+If you have an error or find a bug, open an issue, contact me, or open a PR and fix it yourself.
 
 Made with ❤️ by William Liu, 2025
